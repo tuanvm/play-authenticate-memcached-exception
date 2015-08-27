@@ -1,0 +1,1 @@
+# play-authenticate-memcached-exception
